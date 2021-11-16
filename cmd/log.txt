@@ -1,0 +1,17 @@
+time="2021-05-25 17:17:16" level=info msg="Copy file" Dir1=/Users/lokis/Documents/dir1/ Dir2=/Users/lokis/Documents/dir2/ FileName=.DS_Store Size=6148
+time="2021-05-25 17:17:16" level=info msg="Copy file" Dir1=/Users/lokis/Documents/dir1/ Dir2=/Users/lokis/Documents/dir2/ FileName=test4 Size=736
+time="2021-05-25 17:17:16" level=info msg="Copy file" Dir1=/Users/lokis/Documents/dir1/ Dir2=/Users/lokis/Documents/dir2/ FileName=test5 Size=1127
+time="2021-05-25 17:01:05" level=info msg="Copy file" Dir1=/Users/lokis/Documents/dir1/ Dir2=/Users/lokis/Documents/dir2/ FileName=test3 Size=489
+time="2021-05-25 17:02:01" level=info msg="Copy file" Dir1=/Users/lokis/Documents/dir1/ Dir2=/Users/lokis/Documents/dir2/ FileName=test4 Size=736
+time="2021-05-25 17:02:01" level=info msg="Copy file" Dir1=/Users/lokis/Documents/dir1/ Dir2=/Users/lokis/Documents/dir2/ FileName=test5 Size=1127
+time="2021-05-25 17:02:01" level=info msg="Copy file" Dir1=/Users/lokis/Documents/dir1/ Dir2=/Users/lokis/Documents/dir2/ FileName=test6 Size=489
+time="2021-05-25 17:02:08" level=info msg="Copy file" Dir1=/Users/lokis/Documents/dir1/ Dir2=/Users/lokis/Documents/dir2/ FileName=test7 Size=736
+time="2021-05-25 17:02:08" level=info msg="Copy file" Dir1=/Users/lokis/Documents/dir1/ Dir2=/Users/lokis/Documents/dir2/ FileName=test8 Size=1127
+time="2021-05-25 17:02:08" level=info msg="Copy file" Dir1=/Users/lokis/Documents/dir1/ Dir2=/Users/lokis/Documents/dir2/ FileName=test9 Size=489
+time="2021-05-25 17:02:19" level=info msg="Delete file" Dir2=/Users/lokis/Documents/dir2/ FileName=test3
+time="2021-05-25 17:02:19" level=info msg="Delete file" Dir2=/Users/lokis/Documents/dir2/ FileName=test2
+time="2021-05-25 17:02:19" level=info msg="Delete file" Dir2=/Users/lokis/Documents/dir2/ FileName=test1
+time="2021-05-25 17:02:25" level=info msg="Delete file" Dir1=/Users/lokis/Documents/dir1/ FileName=test6
+time="2021-05-25 17:02:25" level=info msg="Delete file" Dir1=/Users/lokis/Documents/dir1/ FileName=test9
+time="2021-05-25 17:02:25" level=info msg="Delete file" Dir1=/Users/lokis/Documents/dir1/ FileName=test7
+time="2021-05-25 17:02:25" level=info msg="Delete file" Dir1=/Users/lokis/Documents/dir1/ FileName=test8
